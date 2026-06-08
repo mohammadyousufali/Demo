@@ -1,2 +1,3 @@
 # Demo
-From this repository file, I will learn github basic formula
+From this repository file, I will learn GitHub basic formula
+Author- Mohammad Yousuf
